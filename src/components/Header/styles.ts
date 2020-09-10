@@ -15,7 +15,6 @@ export const Container = styled.div<ContainerProps>`
     display: flex;
     align-items: center;
     justify-content: space-between;
-
     nav {
       a {
         color: #fff;
