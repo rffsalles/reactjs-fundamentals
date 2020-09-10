@@ -2,4 +2,4 @@
 
 # Soluções & Consultoria - <a href="http://unovo.com.br">http://unovo.com.br<a/>
 # reactjs-fundamentals
-list balance using cards and import CSV
+balance info using cards, list transactions and import CSV
